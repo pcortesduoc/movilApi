@@ -1,0 +1,23 @@
+{
+  "asignatura": [
+    {
+      "id": 1,
+      "codigo": "PGY4121",
+      "nombre": "Programacion de aplicaciones moviles",
+      "seccion": "008D",
+      "profesor": "Yaravi Liliana Villegas Dominguez",
+      "sede": "Viña del mar",
+      "horario": [{
+        "dia": "miercoles"
+        "hora inicio": "2:00",
+        "hora termino": "3:20",
+        "sala": "LC2 Laboratorio de computacion"
+      },{
+        "dia": "miercoles"
+        "hora inicio": "1:10",
+        "hora termino": "3:20",
+        "sala": "TP1 Taller de proyectos"
+      }]
+    },
+  ]
+}
