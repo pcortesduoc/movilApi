@@ -8,12 +8,12 @@
       "profesor": "Yaravi Liliana Villegas Dominguez",
       "sede": "Viña del mar",
       "horario": [{
-        "dia": "lunes"
+        "dia": "lunes",
         "hora inicio": "2:00",
         "hora termino": "3:20",
         "sala": "LC2 Laboratorio de computacion"
       },{
-        "dia": "miercoles"
+        "dia": "miercoles",
         "hora inicio": "1:10",
         "hora termino": "3:20",
         "sala": "TP1 Taller de proyectos"
@@ -27,12 +27,12 @@
       "profesor": "Yaravi Liliana Villegas Dominguez",
       "sede": "Viña del mar",
       "horario": [{
-        "dia": "lunes"
+        "dia": "lunes",
         "hora inicio": "2:00",
         "hora termino": "3:20",
         "sala": "LC2 Laboratorio de computacion"
       },{
-        "dia": "miercoles"
+        "dia": "miercoles",
         "hora inicio": "1:10",
         "hora termino": "3:20",
         "sala": "TP1 Taller de proyectos"
