@@ -9,33 +9,33 @@
       "sede": "Viña del mar",
       "horario": [{
         "dia": "lunes",
-        "hora inicio": "2:00",
-        "hora termino": "3:20",
+        "hora inicio": "14:00",
+        "hora termino": "15:20",
         "sala": "LC2 Laboratorio de computacion"
       },{
         "dia": "miercoles",
-        "hora inicio": "1:10",
-        "hora termino": "3:20",
+        "hora inicio": "13:10",
+        "hora termino": "15:20",
         "sala": "TP1 Taller de proyectos"
       }]
     },
     {
       "id": 2,
-      "codigo": "PGY4121",
-      "nombre": "Programacion de aplicaciones moviles",
-      "seccion": "008D",
-      "profesor": "Yaravi Liliana Villegas Dominguez",
+      "codigo": "ASY4131",
+      "nombre": "Arquitectura",
+      "seccion": "009D",
+      "profesor": "Carlos Ignacio Valverde Olivares",
       "sede": "Viña del mar",
       "horario": [{
-        "dia": "lunes",
-        "hora inicio": "2:00",
-        "hora termino": "3:20",
-        "sala": "LC2 Laboratorio de computacion"
+        "dia": "martes",
+        "hora inicio": "17:01",
+        "hora termino": "19:00",
+        "sala": "LC5 Laboratorio de computacion"
       },{
-        "dia": "miercoles",
-        "hora inicio": "1:10",
-        "hora termino": "3:20",
-        "sala": "TP1 Taller de proyectos"
+        "dia": "jueves",
+        "hora inicio": "17:41",
+        "hora termino": "19:00",
+        "sala": "LC3 Laboratorio de computacion"
       }]
     }
   ]
