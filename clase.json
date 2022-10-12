@@ -7,55 +7,61 @@
       "seccion": "009d",
       "profesor": "carlos ignacio valverde olivares",
       "sede": "viña del mar",
-      "horario": [{
-        "dia": "martes",
-        "hra_ini": "17:01",
-        "hra_ter": "19:00",
-        "sala": "lc5"
-      },{
-        "dia": "jueves",
-        "hra_ini": "17:41",
-        "hra_ter": "19:00",
-        "sala": "lc3"
-      }]
-    },
+      "horario": [
         {
+          "dia": "martes",
+          "hra_ini": "17:01",
+          "hra_ter": "19:00",
+          "sala": "lc5"
+        },
+        {
+          "dia": "jueves",
+          "hra_ini": "17:41",
+          "hra_ter": "19:00",
+          "sala": "lc3"
+        }]
+    },
+    {
       "id": 2,
       "codigo": "csy4111",
       "nombre": "calidad de software",
       "seccion": "007d",
       "profesor": "rodrigo hernán pinochet ponce",
       "sede": "viña del mar",
-      "horario": [{
-        "dia": "lunes",
-        "hra_ini": "10:11",
-        "hra_ter": "11:40",
-        "sala": "lc5"
-      },{
-        "dia": "miércoles",
-        "hra_ini": "11:01",
-        "hra_ter": "12:20",
-        "sala": "lc4"
-      }]
-    },
+      "horario": [
         {
+          "dia": "lunes",
+          "hra_ini": "10:11",
+          "hra_ter": "11:40",
+          "sala": "lc5"
+        },
+        {
+          "dia": "miércoles",
+          "hra_ini": "11:01",
+          "hra_ter": "12:20",
+          "sala": "lc4"
+        }]
+    },
+    {
       "id": 3,
       "codigo": "mat4140",
       "nombre": "estadistica descriptiva",
       "seccion": "004d",
       "profesor": "mirna cortes hidalgo",
       "sede": "viña del mar",
-      "horario": [{
-        "dia": "martes",
-        "hra_ini": "14:01",
-        "hra_ter": "15:20",
-        "sala": "lc10"
-      },{
-        "dia": "viernes",
-        "hra_ini": "14:01",
-        "hra_ter": "15:20",
-        "sala": "lc9"
-      }]
+      "horario": [
+        {
+          "dia": "martes",
+          "hra_ini": "14:01",
+          "hra_ter": "15:20",
+          "sala": "lc10"
+        },
+        {
+          "dia": "viernes",
+          "hra_ini": "14:01",
+          "hra_ter": "15:20",
+          "sala": "lc9"
+        }]
     },
     {
       "id": 4,
@@ -64,12 +70,13 @@
       "seccion": "004d",
       "profesor": "carlos enrique gaggero contreras",
       "sede": "viña del mar",
-      "horario": [{
-        "dia": "jueves",
-        "hra_ini": "15:31",
-        "hra_ter": "16:50",
-        "sala": "s45"
-      }]
+      "horario": [
+        {
+          "dia": "jueves",
+          "hra_ini": "15:31",
+          "hra_ter": "16:50",
+          "sala": "s45"
+        }]
     },
     {
       "id": 5,
@@ -111,17 +118,19 @@
       "seccion": "008D",
       "profesor": "yaravi liliana villegas dominguez",
       "sede": "viña del mar",
-      "horario": [{
-        "dia": "lunes",
-        "hra_ini": "14:00",
-        "hra_ter": "15:20",
-        "sala": "lc2"
-      },{
-        "dia": "miercoles",
-        "hra_ini": "13:10",
-        "hra_ter": "15:20",
-        "sala": "tp1"
-      }]
+      "horario": [
+        {
+          "dia": "lunes",
+          "hra_ini": "14:00",
+          "hra_ter": "15:20",
+          "sala": "lc2"
+        },
+        {
+          "dia": "miercoles",
+          "hra_ini": "13:10",
+          "hra_ter": "15:20",
+          "sala": "tp1"
+        }]
     }
   ]
 }
