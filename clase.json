@@ -9,13 +9,13 @@
       "sede": "viña del mar",
       "horario": [
         {
-          "dia": "martes",
+          "dia": 2,
           "hra_ini": "17:01",
           "hra_ter": "19:00",
           "sala": "lc5"
         },
         {
-          "dia": "jueves",
+          "dia": 4,
           "hra_ini": "17:41",
           "hra_ter": "19:00",
           "sala": "lc3"
@@ -30,13 +30,13 @@
       "sede": "viña del mar",
       "horario": [
         {
-          "dia": "lunes",
+          "dia": 1,
           "hra_ini": "10:11",
           "hra_ter": "11:40",
           "sala": "lc5"
         },
         {
-          "dia": "miércoles",
+          "dia": 3,
           "hra_ini": "11:01",
           "hra_ter": "12:20",
           "sala": "lc4"
@@ -51,13 +51,13 @@
       "sede": "viña del mar",
       "horario": [
         {
-          "dia": "martes",
+          "dia": 2,
           "hra_ini": "14:01",
           "hra_ter": "15:20",
           "sala": "lc10"
         },
         {
-          "dia": "viernes",
+          "dia": 5,
           "hra_ini": "14:01",
           "hra_ter": "15:20",
           "sala": "lc9"
@@ -72,7 +72,7 @@
       "sede": "viña del mar",
       "horario": [
         {
-          "dia": "jueves",
+          "dia": 4,
           "hra_ini": "15:31",
           "hra_ter": "16:50",
           "sala": "s45"
@@ -87,25 +87,25 @@
       "sede": "viña del mar",
       "horario": [
         {
-          "dia": "martes",
+          "dia": 2,
           "hra_ini": "11:01",
           "hra_ter": "12:20",
           "sala": "s507"
         },
         {
-          "dia": "miercoles",
+          "dia": 3,
           "hra_ini": "09:31",
           "hra_ter": "10:50",
           "sala": "s507"
         },
         {
-          "dia": "jueves",
+          "dia": 4,
           "hra_ini": "11:01",
           "hra_ter": "12:20",
           "sala": "s507"
         },
         {
-          "dia": "viernes",
+          "dia": 5,
           "hra_ini": "11:01",
           "hra_ter": "12:20",
           "sala": "s507"
@@ -120,13 +120,13 @@
       "sede": "viña del mar",
       "horario": [
         {
-          "dia": "lunes",
+          "dia": 1,
           "hra_ini": "14:00",
           "hra_ter": "15:20",
           "sala": "lc2"
         },
         {
-          "dia": "miercoles",
+          "dia": 3,
           "hra_ini": "13:10",
           "hra_ter": "15:20",
           "sala": "tp1"
