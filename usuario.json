@@ -1,24 +1,24 @@
 {
   "usuario": [
     {
-      "id": 1,
-	  "run": 12345678
-	  "dv": "9"
-      "nombre": "Patricio",
-	  "apellido": "Villarroel",
-      "Carrera": "Analista Programador Computacional",
-	  "correo": "patricio@duocuc.cl",
-	  "contrasena": "asdf"
+      	"id": 1,
+	"run": 12345678,
+	"dv": "9",
+      	"nombre": "patricio",
+	"apellido": "villarroel",
+      	"carrera": "analista programador computacional",
+	"correo": "patricio@duocuc.cl",
+	"contrasena": "asdf"
     },
 	{
-      "id": 2,
-	  "run": 19867719
-	  "dv": "1"
-      "nombre": "Pablo",
-	  "apellido": "Cortes",
-      "Carrera": "Analista Programador Computacional",
-	  "correo": "pablo@duocuc.cl",
-	  "contrasena": "asdf"
+      	"id": 2,
+	"run": 19867719,
+	"dv": "1",
+      	"nombre": "pablo",
+	"apellido": "cortes",
+     	"carrera": "analista programador computacional",
+	"correo": "pablo@duocuc.cl",
+	"contrasena": "asdf"
     },
     
   ]
