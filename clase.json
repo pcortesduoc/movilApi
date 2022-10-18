@@ -36,7 +36,7 @@
         {
           "dia": 1,
           "hra_ini": 10,
-          "min_ter": 11,
+          "min_ini": 11,
           "hra_ter": 11,
           "min_ter": 40,
           "sala": "lc5"
