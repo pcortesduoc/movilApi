@@ -6,6 +6,7 @@
       "nombre": "arquitectura",
       "seccion": "009d",
       "profesor": "carlos ignacio valverde olivares",
+      "correoProf": "p.cortes@duocuc.cl",
       "sede": "viña del mar",
       "horario": [
         {
@@ -31,6 +32,7 @@
       "nombre": "calidad de software",
       "seccion": "007d",
       "profesor": "rodrigo hernán pinochet ponce",
+      "correoProf": "p.cortes@duocuc.cl",
       "sede": "viña del mar",
       "horario": [
         {
@@ -56,6 +58,7 @@
       "nombre": "estadistica descriptiva",
       "seccion": "004d",
       "profesor": "mirna cortes hidalgo",
+      "correoProf": "p.cortes@duocuc.cl",
       "sede": "viña del mar",
       "horario": [
         {
@@ -81,6 +84,7 @@
       "nombre": "etica para el trabajo",
       "seccion": "004d",
       "profesor": "carlos enrique gaggero contreras",
+      "correoProf": "test@test.cl",
       "sede": "viña del mar",
       "horario": [
         {
@@ -98,6 +102,7 @@
       "nombre": "ingles intermedio",
       "seccion": "018d",
       "profesor": "paula pia rodriguez molina",
+      "correoProf": "p.cortes@duocuc.cl",
       "sede": "viña del mar",
       "horario": [
         {
@@ -139,6 +144,7 @@
       "nombre": "programacion de aplicaciones moviles",
       "seccion": "008D",
       "profesor": "yaravi liliana villegas dominguez",
+      "correoProf": "p.cortes@duocuc.cl",
       "sede": "viña del mar",
       "horario": [
         {
