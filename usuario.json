@@ -19,6 +19,16 @@
      	"carrera": "analista programador computacional",
 	"correo": "pablo@duocuc.cl",
 	"contrasena": "asdf"
+    },
+	{
+      	"id": 3,
+	"run": 16867719,
+	"dv": "K",
+      	"nombre": "marlen",
+	"apellido": "briceño",
+     	"carrera": "diseño interior",
+	"correo": "mbriceno@duocuc.cl",
+	"contrasena": "asdf1234"
     }
     
   ]
